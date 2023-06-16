@@ -1,0 +1,50 @@
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\Library Management System.exe
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\Library Management System.deps.json
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\Library Management System.runtimeconfig.json
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\Library Management System.dll
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\Library Management System.pdb
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\MaterialSkin.dll
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\Siticone.Desktop.UI.dll
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\MySql.EntityFrameworkCore.dll
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\MySql.Data.xml
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\bin\Debug\net6.0-windows\MySql.EntityFrameworkCore.xml
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\obj\Debug\net6.0-windows\Library Management System.csproj.AssemblyReference.cache
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\obj\Debug\net6.0-windows\Library_Management_System.book_detail.resources
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\obj\Debug\net6.0-windows\Library_Management_System.book_request.resources
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\obj\Debug\net6.0-windows\CustomControls.RJControls.RJTextBox.resources
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\obj\Debug\net6.0-windows\Library_Management_System.DashBoard.resources
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\obj\Debug\net6.0-windows\Library_Management_System.LogIn.resources
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\obj\Debug\net6.0-windows\Library_Management_System.main_dash.resources
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\obj\Debug\net6.0-windows\Library_Management_System.nclib.resources
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\obj\Debug\net6.0-windows\Library_Management_System.Properties.Resources.resources
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\obj\Debug\net6.0-windows\Library_Management_System.SignUp.resources
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\obj\Debug\net6.0-windows\Library Management System.csproj.GenerateResource.cache
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\obj\Debug\net6.0-windows\Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\obj\Debug\net6.0-windows\Library Management System.AssemblyInfoInputs.cache
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\obj\Debug\net6.0-windows\Library Management System.AssemblyInfo.cs
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\obj\Debug\net6.0-windows\Library Management System.csproj.CoreCompileInputs.cache
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\obj\Debug\net6.0-windows\Library Management System.csproj.CopyComplete
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\obj\Debug\net6.0-windows\Library Management System.dll
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\obj\Debug\net6.0-windows\refint\Library Management System.dll
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\obj\Debug\net6.0-windows\Library Management System.pdb
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\obj\Debug\net6.0-windows\Library Management System.genruntimeconfig.cache
+D:\Users\Sophia\Documents\College\3rd year\2nd Sem\SE\Library Management System\obj\Debug\net6.0-windows\ref\Library Management System.dll
